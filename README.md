@@ -1,7 +1,6 @@
 # SimpleTMTimer-html
 html5 and javascript for Toastmaster TImer app
 
-Simple TM Timer for Toastmasters.
   
 This is an HTML/Javascript based app that provides timer display
 for Toastmaster speeches.
